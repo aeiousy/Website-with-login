@@ -14,6 +14,6 @@
 > **Note: `npm` and `nodejs` are required to make the bot work.**
 
 - Be sure to put the OAuth2 redirection in the **REDIRECTS** of your bot.
-![image](https://cdn.discordapp.com/attachments/485886312398848030/485886331336130561/unknown.png)
+![image](https://cdn.discordapp.com/attachments/761844663304323103/806763462926663680/unknown.png)
 - Do in `npm install` order to install all the modules necessary for the functioning of the bot.
 - To start the bot, do `node app.js`.

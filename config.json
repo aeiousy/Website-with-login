@@ -4,9 +4,9 @@
 		"prefix": "!",
 		"secret": "P0hHiqGTVf8r0BTj_YBQOwt_46S9Nzlb",
 		"status": "online",
-		"token": "NzczOTE0MzQ2NjgxNzk0NjAx.X6QJ5g.QkYgHc_hJL52pazAUDOqfN3x_Po",
+		"token": "NzczOTE0MzQ2NjgxNzk0NjAx.X6QJ5g.D5VypG67Cn-Sqb23b6XJzPi4icM",
 		"url": "http://localhost",
-		"production": true
+		"production": false
 	},
 	"app": {
 		"port": 3000
