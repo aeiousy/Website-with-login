@@ -1,10 +1,10 @@
 {
 	"bot": {
-		"id": "", //bot client id
+		"id": "", #bot client id
 		"prefix": "!",
-		"secret": "", //bot client secret
+		"secret": "", #bot client secret
 		"status": "online",
-		"token": "", //bot token
+		"token": "", #bot token
 		"url": "http://localhost",
 		"production": false
 	},
