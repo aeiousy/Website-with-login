@@ -1,39 +1,19 @@
-
-# Dashboard.io
-
-![image](https://cdn.discordapp.com/avatars/485752871027998725/abd8ca42e420f9fcda938f8281d874db.png?size=160)
-
-Ce repository est un fork régulièrement mis à jour de **Dashboard.io**, un dashboard open source créé par **Sworder71**.
-
-## Table des matières
-
-- [Dashboard.io](#dashboardio)
-  - [Table des matières](#table-des-matières)
-  - [V1](#v1)
-  - [Installation](#installation)
-    - [Compléter le fichier `config.json`](#compléter-le-fichier-configjson)
-  - [Fonctionnement](#fonctionnement)
-
-## V1
-
-La version `0.0.1` a été créée le Dimanche 2 septembre 2018. Pour utiliser `Dashboard.io`, vous devez mettre une **star** au git.
-
 ## Installation
 
-### Compléter le fichier `config.json`
+### Complete the file `config.json`
 
-- `id` doit être l'ID de votre bot.
-- `token` doit être le **token** du bot.
-- `prefix` doit être le **prefix** du bot.
-- `secret` se trouve dans la page de votre bot sur [discordapp.com](https://discordapp.com/developers/applications/)
-- `url` doit être l'URL vers laquelle les utilisateurs seront redirigés, si vous êtes en local, mettez simplement: `http://localhost`.
-- `production` doit être **true** ou **false**. Si vous utilisez une URL avec le port (comme `localhost:3000`), mettez **false**. Sinon, mettez **true**.
+`id` must be your bot ID.
+`token` must be the bot's token .
+`prefix` must be the bot prefix .
+`secret` can be found in your bot page on discordapp.com
+`url` should be the URL that users will be redirected if you're local, put simply: http://localhost.
+`production` must be true or false . If you are using a URL with the port (like localhost:3000), put false . Otherwise, put true .
 
-## Fonctionnement
+## Operation
 
-> **Note: `npm` et `nodejs` sont requis pour faire fonctionner le bot.**
+> **Note: `npm` and `nodejs` are required to make the bot work.**
 
-- Veillez à bien mettre la redirection OAuth2 dans les **REDIRECTS** de votre bot.
+- Be sure to put the OAuth2 redirection in the **REDIRECTS** of your bot.
 ![image](https://cdn.discordapp.com/attachments/485886312398848030/485886331336130561/unknown.png)
-- Faites `npm install` afin d'installer tous les modules nécessaire au fonctionnement du bot.
-- Pour lancer le bot, faites `node app.js`.
+- Do in `npm install` order to install all the modules necessary for the functioning of the bot.
+- To start the bot, do `node app.js`.
