@@ -2,12 +2,12 @@
 
 ### Complete the file `config.json`
 
-`id` must be your bot ID.
-`token` must be the bot's token .
-`prefix` must be the bot prefix .
-`secret` can be found in your bot page on discordapp.com
-`url` should be the URL that users will be redirected if you're local, put simply: http://localhost.
-`production` must be true or false . If you are using a URL with the port (like localhost:3000), put false . Otherwise, put true .
+- `id` must be your bot ID.
+- `token` must be the bot's token .
+- `prefix` must be the bot prefix .
+- `secret` can be found in your bot page on discordapp.com
+- `url` should be the URL that users will be redirected if you're local, put simply: http://localhost.
+- `production` must be true or false . If you are using a URL with the port (like localhost:3000), put false . Otherwise, put true .
 
 ## Operation
 
