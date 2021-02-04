@@ -9,7 +9,7 @@
 - `url` should be the URL that users will be redirected if you're local, put simply: http://localhost.
 - `production` must be true or false . If you are using a URL with the port (like localhost:3000), put false . Otherwise, put true .
 
-## Operation
+## Now the redirects and start up
 
 > **Note: `npm` and `nodejs` are required to make the bot work.**
 
