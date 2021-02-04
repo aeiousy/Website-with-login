@@ -1,0 +1,21 @@
+{
+  "name": "Dashboard.io",
+  "version": "1.1.1",
+  "description": "Bot et dashboard créé par Sworder",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sworder",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "discord.js": "^12.2.0",
+    "ejs": "^2.6.1",
+    "erlpack": "github:hammerandchisel/erlpack",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {}
+}
