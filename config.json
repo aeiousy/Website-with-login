@@ -1,10 +1,10 @@
 {
 	"bot": {
-		"id": "773914346681794601",
+		"id": "", //bot client id
 		"prefix": "!",
-		"secret": "P0hHiqGTVf8r0BTj_YBQOwt_46S9Nzlb",
+		"secret": "", //bot client secret
 		"status": "online",
-		"token": "NzczOTE0MzQ2NjgxNzk0NjAx.X6QJ5g.D5VypG67Cn-Sqb23b6XJzPi4icM",
+		"token": "", //bot token
 		"url": "http://localhost",
 		"production": false
 	},
